@@ -1,5 +1,5 @@
 /*
-* Mike Shiferaw, Q626Z293, Assignment 7
+* Mike Shiferaw
 * File: bin_search_tree.c
 */
 #include <stdio.h>
